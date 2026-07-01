@@ -1,9 +1,11 @@
 .idea/
+.pytest_cache/
+.vscode/
 venv
 __pycache__
 scan.bat
 scan.sh
-.venv
+.venv/
 .scannerwork
 coverage.xml
 .sonar/
